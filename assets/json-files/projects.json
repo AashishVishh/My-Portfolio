@@ -42,7 +42,7 @@
     {
         "id": "4",
         "title": "MOAQUA",
-        "shortDescription": "Vishwakarma",
+        "shortDescription": "Water level measuring application",
         "description": "MOAQUA (Monitor Aqua) is a IOT based application which Monitor and Controls the Water level of the tanks which is used by Commercial and Residential Buildings to Reduce the Water wastage.<br>My goal towards application was to Design and Build the Web based Mobile application which communicate with IOT application through API to On or Off the motors, display the water levels and the daily report of hourly water consumption and motors used.",
         "company": "TRANSOVATIVE SOLUTIONS PVT LTD.",
         "technologyUsed": "Asp.Net, JavaScript, Bootstrap, SQL Server 2016",
@@ -52,7 +52,7 @@
     {
         "id": "5",
         "title": "Birds-I",
-        "shortDescription": "Life Insuarance Project",
+        "shortDescription": "surveillance",
         "description": "Birds-I is a product which provides live video monitoring of Atm sites over the web browser and mobile App. <br>It Provides Alert based ticketing system along with automated actions and notifications which,reduces the manual intervention and increases the productivity. <br>Birds-I is used by clients such as, Safesense, Advait and Global Force.,<br><br>My goal towards this project was to build and handle these projects on different severs according to, different Client.",
         "company": "TRANSOVATIVE SOLUTIONS PVT LTD.",
         "technologyUsed": "Asp.Net, Javascript, Bootstrap, SQL Server 2016.",
@@ -62,7 +62,7 @@
     {
         "id": "6",
         "title": "Jotun Rewards",
-        "shortDescription": "Life Insuarance Project",
+        "shortDescription": "Reward system based on paint purchase",
         "description": "Jotun Rewards is Web based portal for Jotun Paints Client. <br>It is a reward management-based portal where Shop Dealers of Jotun Paints Enters Points against the Painter who buys paints from Jotun Paints and they get Points for each Paint boxes which they can redeem in the form of Jotun Cards which they can use to buy any Products from Jotun according to the Amount in Card.<br><br>My work towards this project was to handle the project and to make changes accordingly. <br><br><u class='text-white'>Jotun Web App</u></b><br>Jotun Rewards App is Web based Mobile Application same as Jotun Rewards Portal.<br>My goals towards this project was to rebuilt to Jotun Rewards Portal its database structure and design for Mobile application with barcode scanning feature in it.",
         "company": "TRANSOVATIVE SOLUTIONS PVT LTD.",
         "technologyUsed": "Asp.Net, Javascript, Bootstrap, SQL Server 2016",
@@ -72,7 +72,7 @@
     {
         "id": "7",
         "title": "Project Tool",
-        "shortDescription": "Life Insuarance Project",
+        "shortDescription": "Tool to manage all the Projects at one portal",
         "description": "Project Tool is a Web Portal ‘Requirement Management Tool’ used internally by Transovative where Each user according to their role works accordingly to the Requirement assigned to him on Project Tool and they keep a track of their Projects. <br>This Tool also Generates the KPI (Key Performance Indicator) according to their performance against the Requirements.<br> My goal towards this project is to design the database structure build the Project and handle it.",
         "company": "TRANSOVATIVE SOLUTIONS PVT LTD.",
         "technologyUsed": "Asp.Net, Javascript, Bootstrap, SQL Server 2016",
