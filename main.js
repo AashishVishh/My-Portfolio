@@ -1340,7 +1340,7 @@ TimeLineComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefine
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](64, "li", 5);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](65, "div", 6);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](66, "h2", 7);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](67, "DATACOMP WEB TECHNOLOGIES PVT. LTD.");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](67, "TRANSOVATIVE SOLUTIONS PVT. LTD.");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](68, "span", 8);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](69, "i", 9);
