@@ -30,7 +30,7 @@
         "projectImageUrl": "assets/images/project-images/DatingApp.PNG"
     },
     {
-        "id": "3",
+        "id": "4",
         "title": "Insta Mix (Mobile View)",
         "shortDescription": "Life Insuarance Project",
         "description": "Insta Mix is a HDFC Life Insurance project.<br>My work towards this project is to develop new modules of this project and make changes according to the requirements",
@@ -40,7 +40,7 @@
         "projectImageUrl": "assets/images/project-images/javascript.jpg"
     },
     {
-        "id": "4",
+        "id": "5",
         "title": "MOAQUA",
         "shortDescription": "Water level measuring application",
         "description": "MOAQUA (Monitor Aqua) is a IOT based application which Monitor and Controls the Water level of the tanks which is used by Commercial and Residential Buildings to Reduce the Water wastage.<br>My goal towards application was to Design and Build the Web based Mobile application which communicate with IOT application through API to On or Off the motors, display the water levels and the daily report of hourly water consumption and motors used.",
@@ -50,7 +50,7 @@
         "projectImageUrl": "assets/images/project-images/javascript.jpg"
     },
     {
-        "id": "5",
+        "id": "6",
         "title": "Birds-I",
         "shortDescription": "surveillance",
         "description": "Birds-I is a product which provides live video monitoring of Atm sites over the web browser and mobile App. <br>It Provides Alert based ticketing system along with automated actions and notifications which,reduces the manual intervention and increases the productivity. <br>Birds-I is used by clients such as, Safesense, Advait and Global Force.,<br><br>My goal towards this project was to build and handle these projects on different severs according to, different Client.",
@@ -60,7 +60,7 @@
         "projectImageUrl": "assets/images/project-images/javascript.jpg"
     },
     {
-        "id": "6",
+        "id": "7",
         "title": "Jotun Rewards",
         "shortDescription": "Reward system based on paint purchase",
         "description": "Jotun Rewards is Web based portal for Jotun Paints Client. <br>It is a reward management-based portal where Shop Dealers of Jotun Paints Enters Points against the Painter who buys paints from Jotun Paints and they get Points for each Paint boxes which they can redeem in the form of Jotun Cards which they can use to buy any Products from Jotun according to the Amount in Card.<br><br>My work towards this project was to handle the project and to make changes accordingly. <br><br><u class='text-white'>Jotun Web App</u></b><br>Jotun Rewards App is Web based Mobile Application same as Jotun Rewards Portal.<br>My goals towards this project was to rebuilt to Jotun Rewards Portal its database structure and design for Mobile application with barcode scanning feature in it.",
@@ -70,7 +70,7 @@
         "projectImageUrl": "assets/images/project-images/javascript.jpg"
     },
     {
-        "id": "7",
+        "id": "8",
         "title": "Project Tool",
         "shortDescription": "Tool to manage all the Projects at one portal",
         "description": "Project Tool is a Web Portal ‘Requirement Management Tool’ used internally by Transovative where Each user according to their role works accordingly to the Requirement assigned to him on Project Tool and they keep a track of their Projects. <br>This Tool also Generates the KPI (Key Performance Indicator) according to their performance against the Requirements.<br> My goal towards this project is to design the database structure build the Project and handle it.",
@@ -78,16 +78,5 @@
         "technologyUsed": "Asp.Net, Javascript, Bootstrap, SQL Server 2016",
         "databaseUsed": "SQL Server 2018.",
         "projectImageUrl": "assets/images/project-images/javascript.jpg"
-    },
-    {
-        "id": "8",
-        "title": "Dating Web App",
-        "shortDescription": "Dating Application",
-        "description": "Dating Application : has features like online chatting using SignalR <br>Filter Section to filter according to age groups. <br> <br> This project is also made for practice purpose.",
-        "company": "-",
-        "technologyUsed": "Asp.Net Core 3.0, Angular 11, Bootstrap, SQL Server 2018",
-        "databaseUsed": "SQL Server 2016.",
-        "projectImageUrl": "assets/images/project-images/javascript.jpg"
     }
-
 ]
