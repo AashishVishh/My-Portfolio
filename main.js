@@ -1244,7 +1244,7 @@ class TimeLineComponent {
     }
 }
 TimeLineComponent.ɵfac = function TimeLineComponent_Factory(t) { return new (t || TimeLineComponent)(); };
-TimeLineComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: TimeLineComponent, selectors: [["app-time-line"]], decls: 74, vars: 0, consts: [[1, "container-fluid"], [1, "row", "mt-3"], [1, "col-sm-12", "col-md-6"], [1, "pf-white"], [1, "timeline"], [1, "timeline-item", "p-4"], [1, "timeline-arrow"], [1, "h5", "text-light", "mb-0"], [1, "small", "text-gray"], [1, "fa", "fa-clock-o", "mr-1"], [1, "text-small", "mt-2", "font-weight-light"], [1, "pf-ls-divider"]], template: function TimeLineComponent_Template(rf, ctx) { if (rf & 1) {
+TimeLineComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: TimeLineComponent, selectors: [["app-time-line"]], decls: 83, vars: 0, consts: [[1, "container-fluid"], [1, "row", "mt-3"], [1, "col-sm-12", "col-md-6"], [1, "pf-white"], [1, "timeline"], [1, "timeline-item", "p-4"], [1, "timeline-arrow"], [1, "h5", "text-light", "mb-0"], [1, "small", "text-gray"], [1, "fa", "fa-clock-o", "mr-1"], [1, "text-small", "mt-2", "font-weight-light"], [1, "pf-ls-divider"]], template: function TimeLineComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "div", 1);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](2, "div", 2);
@@ -1327,11 +1327,11 @@ TimeLineComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefine
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](55, "li", 5);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](56, "div", 6);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](57, "h2", 7);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](58, "DATACOMP WEB TECHNOLOGIES PVT. LTD.");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](58, "POWERWEAVE");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](59, "span", 8);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](60, "i", 9);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](61, "Oct 2020-2021");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](61, "NOV 2021");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](62, "p", 10);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](63, "Role: Software Developer");
@@ -1340,20 +1340,33 @@ TimeLineComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefine
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](64, "li", 5);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](65, "div", 6);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](66, "h2", 7);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](67, "TRANSOVATIVE SOLUTIONS PVT. LTD.");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](67, "DATACOMP WEB TECHNOLOGIES PVT. LTD.");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](68, "span", 8);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](69, "i", 9);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](70, "Nov 2017 - Jan 2020");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](70, "Oct 2020-2021");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](71, "p", 10);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](72, "Role: Technical Consultant");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](72, "Role: Software Developer");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](73, "li", 5);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](74, "div", 6);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](75, "h2", 7);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](76, "TRANSOVATIVE SOLUTIONS PVT. LTD.");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](77, "span", 8);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](78, "i", 9);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](79, "Nov 2017 - Jan 2020");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](80, "p", 10);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](81, "Role: Technical Consultant");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](73, "div", 11);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](82, "div", 11);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
     } }, styles: ["ul.timeline[_ngcontent-%COMP%] {\r\n    list-style-type: none;\r\n    position: relative;\r\n    padding-left: 1.5rem;\r\n}\r\n.timeline[_ngcontent-%COMP%]   li[_ngcontent-%COMP%] {\r\n    background: linear-gradient(159deg, #2d2d3a 0%, #2b2b35 100%);\r\n    box-shadow: 0 3px 8px 0 rgba(15, 15, 20, 0.2);\r\n}\r\n\r\nul.timeline[_ngcontent-%COMP%]:before {\r\n    content: ' ';\r\n    background: #191923;\r\n    \r\n    background-color: var(--yellow);\r\n    display: inline-block;\r\n    position: absolute;\r\n    left: 0px;\r\n    width: 6px;\r\n    height: 100%;\r\n    z-index: 50;\r\n    border-radius: 1rem;\r\n}\r\nli.timeline-item[_ngcontent-%COMP%] {\r\n    margin: 20px 0;\r\n}\r\n\r\n.timeline-arrow[_ngcontent-%COMP%] {\r\n    border-top: 0.5rem solid transparent;\r\n    border-right: 0.5rem solid var(--yellow);\r\n    border-bottom: 0.5rem solid transparent;\r\n    display: block;\r\n    position: absolute;\r\n    left: 1rem;\r\n}\r\n\r\nli.timeline-item[_ngcontent-%COMP%]::before {\r\n    content: ' ';\r\n    background: #191923;\r\n    display: inline-block;\r\n    position: absolute;\r\n    border-radius: 50%;\r\n    border: 3px solid var(--yellow);\r\n    left: -5px;\r\n    width: 16px;\r\n    height: 16px;\r\n    z-index: 50;\r\n    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);\r\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInRpbWUtbGluZS5jb21wb25lbnQuY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBLG9CQUFvQjtBQUNwQjtJQUNJLHFCQUFxQjtJQUNyQixrQkFBa0I7SUFDbEIsb0JBQW9CO0FBQ3hCO0FBRUE7SUFDSSw2REFBNkQ7SUFFN0QsNkNBQTZDO0FBQ2pEO0FBRUMsMkJBQTJCO0FBQzVCO0lBQ0ksWUFBWTtJQUNaLG1CQUFtQjtJQUNuQixrRUFBa0U7SUFDbEUsK0JBQStCO0lBQy9CLHFCQUFxQjtJQUNyQixrQkFBa0I7SUFDbEIsU0FBUztJQUNULFVBQVU7SUFDVixZQUFZO0lBQ1osV0FBVztJQUNYLG1CQUFtQjtBQUN2QjtBQUVBO0lBQ0ksY0FBYztBQUNsQjtBQUVBLHdCQUF3QjtBQUN4QjtJQUNJLG9DQUFvQztJQUNwQyx3Q0FBd0M7SUFDeEMsdUNBQXVDO0lBQ3ZDLGNBQWM7SUFDZCxrQkFBa0I7SUFDbEIsVUFBVTtBQUNkO0FBRUEsZ0NBQWdDO0FBQ2hDO0lBQ0ksWUFBWTtJQUNaLG1CQUFtQjtJQUNuQixxQkFBcUI7SUFDckIsa0JBQWtCO0lBQ2xCLGtCQUFrQjtJQUNsQiwrQkFBK0I7SUFDL0IsVUFBVTtJQUNWLFdBQVc7SUFDWCxZQUFZO0lBQ1osV0FBVztJQUNYLHNDQUFzQztBQUMxQyIsImZpbGUiOiJ0aW1lLWxpbmUuY29tcG9uZW50LmNzcyIsInNvdXJjZXNDb250ZW50IjpbIi8qIFRpbWVsaW5lIGhvbGRlciAqL1xyXG51bC50aW1lbGluZSB7XHJcbiAgICBsaXN0LXN0eWxlLXR5cGU6IG5vbmU7XHJcbiAgICBwb3NpdGlvbjogcmVsYXRpdmU7XHJcbiAgICBwYWRkaW5nLWxlZnQ6IDEuNXJlbTtcclxufVxyXG5cclxuLnRpbWVsaW5lIGxpIHtcclxuICAgIGJhY2tncm91bmQ6IGxpbmVhci1ncmFkaWVudCgxNTlkZWcsICMyZDJkM2EgMCUsICMyYjJiMzUgMTAwJSk7XHJcbiAgICAtd2Via2l0LWJveC1zaGFkb3c6IDAgM3B4IDhweCAwIHJnYmEoMTUsIDE1LCAyMCwgMC4yKTtcclxuICAgIGJveC1zaGFkb3c6IDAgM3B4IDhweCAwIHJnYmEoMTUsIDE1LCAyMCwgMC4yKTtcclxufVxyXG5cclxuIC8qIFRpbWVsaW5lIHZlcnRpY2FsIGxpbmUgKi9cclxudWwudGltZWxpbmU6YmVmb3JlIHtcclxuICAgIGNvbnRlbnQ6ICcgJztcclxuICAgIGJhY2tncm91bmQ6ICMxOTE5MjM7XHJcbiAgICAvKiBiYWNrZ3JvdW5kOmxpbmVhci1ncmFkaWVudCgxNTlkZWcsICMyZDJkM2EgMCUsICMyYjJiMzUgMTAwJSk7ICovXHJcbiAgICBiYWNrZ3JvdW5kLWNvbG9yOiB2YXIoLS15ZWxsb3cpO1xyXG4gICAgZGlzcGxheTogaW5saW5lLWJsb2NrO1xyXG4gICAgcG9zaXRpb246IGFic29sdXRlO1xyXG4gICAgbGVmdDogMHB4O1xyXG4gICAgd2lkdGg6IDZweDtcclxuICAgIGhlaWdodDogMTAwJTtcclxuICAgIHotaW5kZXg6IDUwO1xyXG4gICAgYm9yZGVyLXJhZGl1czogMXJlbTtcclxufVxyXG5cclxubGkudGltZWxpbmUtaXRlbSB7XHJcbiAgICBtYXJnaW46IDIwcHggMDtcclxufVxyXG5cclxuLyogVGltZWxpbmUgaXRlbSBhcnJvdyAqL1xyXG4udGltZWxpbmUtYXJyb3cge1xyXG4gICAgYm9yZGVyLXRvcDogMC41cmVtIHNvbGlkIHRyYW5zcGFyZW50O1xyXG4gICAgYm9yZGVyLXJpZ2h0OiAwLjVyZW0gc29saWQgdmFyKC0teWVsbG93KTtcclxuICAgIGJvcmRlci1ib3R0b206IDAuNXJlbSBzb2xpZCB0cmFuc3BhcmVudDtcclxuICAgIGRpc3BsYXk6IGJsb2NrO1xyXG4gICAgcG9zaXRpb246IGFic29sdXRlO1xyXG4gICAgbGVmdDogMXJlbTtcclxufVxyXG5cclxuLyogVGltZWxpbmUgaXRlbSBjaXJjbGUgbWFya2VyICovXHJcbmxpLnRpbWVsaW5lLWl0ZW06OmJlZm9yZSB7XHJcbiAgICBjb250ZW50OiAnICc7XHJcbiAgICBiYWNrZ3JvdW5kOiAjMTkxOTIzO1xyXG4gICAgZGlzcGxheTogaW5saW5lLWJsb2NrO1xyXG4gICAgcG9zaXRpb246IGFic29sdXRlO1xyXG4gICAgYm9yZGVyLXJhZGl1czogNTAlO1xyXG4gICAgYm9yZGVyOiAzcHggc29saWQgdmFyKC0teWVsbG93KTtcclxuICAgIGxlZnQ6IC01cHg7XHJcbiAgICB3aWR0aDogMTZweDtcclxuICAgIGhlaWdodDogMTZweDtcclxuICAgIHotaW5kZXg6IDUwO1xyXG4gICAgYm94LXNoYWRvdzogMCAwIDVweCByZ2JhKDAsIDAsIDAsIDAuMik7XHJcbn0iXX0= */"] });
 
