@@ -479,6 +479,7 @@ class AppComponent {
             { name: 'keywords', content: 'Portfolio, Angular, FullStalkDeveloper' },
             { name: 'description', content: 'Porfolio of my software development journey' },
             { name: 'theme-color', content: '#20202a' },
+            { name: 'og:image', content: 'https://aashishvishh.github.io/My-Portfolio/assets/images/Thumbnail_Image.png' },
         ]);
         this.InitializingEvents();
     }
